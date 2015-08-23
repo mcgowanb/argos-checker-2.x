@@ -1,0 +1,1382 @@
+2015-02-16 20:58:52 Error: Fatal Error (4): syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/projects/php/argos/trunk/app/View/Layouts/default.ctp, line 34]
+2015-02-16 20:58:52 Error: [FatalErrorException] syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /php/argos/trunk/
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 34)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 34, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 34, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-16 20:59:08 Error: Fatal Error (4): syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/projects/php/argos/trunk/app/View/Layouts/default.ctp, line 34]
+2015-02-16 20:59:08 Error: [FatalErrorException] syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /php/argos/trunk/
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 34)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 34, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 34, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-16 20:59:14 Error: Fatal Error (4): syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/projects/php/argos/trunk/app/View/Layouts/default.ctp, line 34]
+2015-02-16 20:59:14 Error: [FatalErrorException] syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /php/argos/trunk/
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 34)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 34, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 34, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-16 20:59:43 Error: Fatal Error (4): syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/projects/php/argos/trunk/app/View/Layouts/default.ctp, line 34]
+2015-02-16 20:59:43 Error: [FatalErrorException] syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /php/argos/trunk/
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 34)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 34, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 34, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-16 21:00:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 21:00:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 21:00:31 Error: Fatal Error (4): syntax error, unexpected ''cake.generic'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/projects/php/argos/trunk/app/View/Layouts/default.ctp, line 35]
+2015-02-16 21:00:31 Error: [FatalErrorException] syntax error, unexpected ''cake.generic'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /php/argos/trunk/
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 35, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 35, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-16 21:00:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 21:00:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 21:25:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 21:25:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:12:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:12:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:16:35 Error: [MissingViewException] View file "Stores/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Stores/index.ctp',
+)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /projects/php/argos/trunk/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(StoresController), Object(CakeRequest))
+#4 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-02-16 23:16:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:16:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:17:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:17:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:20:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:20:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:21:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:21:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:21:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:21:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:21:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:21:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:21:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/js/jquery-1.11.2.js
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:21:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:22:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:23:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:23:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:26:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:27:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:27:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:29:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:29:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:29:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:29:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:29:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/css/bootstrap-min.css
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:51:09 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/img/img/logo.png
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:51:29 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+Exception Attributes: array (
+  'class' => 'Logo.pngController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/logo.png
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-16 23:51:30 Error: [MissingControllerException] Controller class Logo.pngController could not be found.
+Exception Attributes: array (
+  'class' => 'Logo.pngController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/logo.png
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-02-17 23:24:31 Error: Fatal Error (1): Call to undefined function http_get_withheader() in [/projects/php/argos/trunk/app/Model/Store.php, line 32]
+2015-02-17 23:24:31 Error: [FatalErrorException] Call to undefined function http_get_withheader()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 32)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-17 23:35:22 Error: Fatal Error (1): Call to undefined function http_get_withheader() in [/projects/php/argos/trunk/app/Model/Store.php, line 32]
+2015-02-17 23:35:22 Error: [FatalErrorException] Call to undefined function http_get_withheader()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 32)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-17 23:38:22 Error: Fatal Error (1): Call to undefined function http_get_withheader() in [/projects/php/argos/trunk/app/Model/Store.php, line 32]
+2015-02-17 23:38:22 Error: [FatalErrorException] Call to undefined function http_get_withheader()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 32)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-18 00:19:39 Error: Fatal Error (1): Call to undefined function http_get() in [/projects/php/argos/trunk/app/Model/Store.php, line 32]
+2015-02-18 00:19:39 Error: [FatalErrorException] Call to undefined function http_get()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 32)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-18 00:20:04 Error: Fatal Error (1): Call to undefined function http_get_withheader() in [/projects/php/argos/trunk/app/Model/Store.php, line 32]
+2015-02-18 00:20:04 Error: [FatalErrorException] Call to undefined function http_get_withheader()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 32)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-18 00:45:49 Error: Fatal Error (1): Call to undefined function http_get_withheader() in [/projects/php/argos/trunk/app/Model/Store.php, line 32]
+2015-02-18 00:45:49 Error: [FatalErrorException] Call to undefined function http_get_withheader()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 32)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 32, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-18 21:53:35 Error: Fatal Error (1): Class 'simple_html_dom' not found in [/projects/php/argos/trunk/app/Model/Store.php, line 33]
+2015-02-18 21:53:35 Error: [FatalErrorException] Class 'simple_html_dom' not found
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'simple_h...', '/projects/php/a...', 33)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'simple_h...', '/projects/php/a...', 33, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'simple_h...', '/projects/php/a...', 33, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-18 22:04:33 Error: Fatal Error (1): Call to a member function find() on null in [/projects/php/argos/trunk/app/Vendor/simple_html_dom.php, line 1129]
+2015-02-18 22:04:33 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 1129)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 1129, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 1129, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-18 22:07:09 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 25960733 bytes) in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 610]
+2015-02-18 22:07:09 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 25960733 bytes)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/projects/php/a...', 610)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/projects/php/a...', 610, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/projects/php/a...', 610, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 22:51:30 Error: Fatal Error (1): Class 'phpQuery' not found in [/projects/php/argos/trunk/app/Model/Store.php, line 35]
+2015-02-19 22:51:30 Error: [FatalErrorException] Class 'phpQuery' not found
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'phpQuery...', '/projects/php/a...', 35)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'phpQuery...', '/projects/php/a...', 35, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'phpQuery...', '/projects/php/a...', 35, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 22:52:38 Error: Fatal Error (1): Class 'phpQuery' not found in [/projects/php/argos/trunk/app/Model/Store.php, line 36]
+2015-02-19 22:52:38 Error: [FatalErrorException] Class 'phpQuery' not found
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'phpQuery...', '/projects/php/a...', 36)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'phpQuery...', '/projects/php/a...', 36, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'phpQuery...', '/projects/php/a...', 36, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 22:53:57 Error: Fatal Error (1): Class 'phpQuery' not found in [/projects/php/argos/trunk/app/Model/Store.php, line 36]
+2015-02-19 22:53:57 Error: [FatalErrorException] Class 'phpQuery' not found
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'phpQuery...', '/projects/php/a...', 36)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'phpQuery...', '/projects/php/a...', 36, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'phpQuery...', '/projects/php/a...', 36, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 23:02:29 Error: [Exception] Error loading XML markup
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/app/Vendor/phpQuery/phpQuery/phpQuery/DOMDocumentWrapper.php(95): DOMDocumentWrapper->loadMarkupXML('\n\n\n\n\n\n\n\n\n\n\n\n\n\n ...', NULL)
+#1 /projects/php/argos/trunk/app/Vendor/phpQuery/phpQuery/phpQuery/DOMDocumentWrapper.php(63): DOMDocumentWrapper->loadMarkup('\n\n\n\n\n\n\n\n\n\n\n\n\n\n ...')
+#2 /projects/php/argos/trunk/app/Vendor/phpQuery/phpQuery/phpQuery/DOMDocumentWrapper.php(49): DOMDocumentWrapper->load('\n\n\n\n\n\n\n\n\n\n\n\n\n\n ...', 'application/xht...', NULL)
+#3 /projects/php/argos/trunk/app/Vendor/phpQuery/phpQuery/phpQuery.php(499): DOMDocumentWrapper->__construct('\n\n\n\n\n\n\n\n\n\n\n\n\n\n ...', 'application/xht...', NULL)
+#4 /projects/php/argos/trunk/app/Vendor/phpQuery/phpQuery/phpQuery.php(410): phpQuery::createDocumentWrapper('\n\n\n\n\n\n\n\n\n\n\n\n\n\n ...', 'application/xht...')
+#5 /projects/php/argos/trunk/app/Vendor/phpQuery/phpQuery/phpQuery.php(450): phpQuery::newDocumentFile('http://www.argo...', 'application/xht...')
+#6 /projects/php/argos/trunk/app/Model/Store.php(35): phpQuery::newDocumentFileXHTML('http://www.argo...')
+#7 /projects/php/argos/trunk/app/Model/Store.php(25): Store->downloadStoreList()
+#8 /projects/php/argos/trunk/app/Controller/StoresController.php(28): Store->updateStoreList()
+#9 [internal function]: StoresController->index()
+#10 /projects/php/argos/trunk/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StoresController), Array)
+#11 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(StoresController), Object(CakeRequest))
+#13 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-02-19 23:20:15 Error: Fatal Error (1): Call to a member function html() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 38]
+2015-02-19 23:20:15 Error: [FatalErrorException] Call to a member function html() on boolean
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 23:23:26 Error: Fatal Error (1): Call to undefined function find() in [/projects/php/argos/trunk/app/Model/Store.php, line 36]
+2015-02-19 23:23:26 Error: [FatalErrorException] Call to undefined function find()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 36)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 36, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 36, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 23:23:46 Error: Fatal Error (1): Call to undefined function find() in [/projects/php/argos/trunk/app/Model/Store.php, line 36]
+2015-02-19 23:23:46 Error: [FatalErrorException] Call to undefined function find()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 36)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 36, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 36, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 23:25:10 Error: [Exception] Method 'has' doesnt exist
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/app/Model/Store.php(36): phpQueryObject->__call('has', Array)
+#1 /projects/php/argos/trunk/app/Model/Store.php(36): phpQueryObject->has('opening')
+#2 /projects/php/argos/trunk/app/Model/Store.php(25): Store->downloadStoreList()
+#3 /projects/php/argos/trunk/app/Controller/StoresController.php(28): Store->updateStoreList()
+#4 [internal function]: StoresController->index()
+#5 /projects/php/argos/trunk/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StoresController), Array)
+#6 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(StoresController), Object(CakeRequest))
+#8 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2015-02-19 23:27:50 Error: [Exception] Method 'has' doesnt exist
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/app/Model/Store.php(36): phpQueryObject->__call('has', Array)
+#1 /projects/php/argos/trunk/app/Model/Store.php(36): phpQueryObject->has('opening')
+#2 /projects/php/argos/trunk/app/Model/Store.php(25): Store->downloadStoreList()
+#3 /projects/php/argos/trunk/app/Controller/StoresController.php(28): Store->updateStoreList()
+#4 [internal function]: StoresController->index()
+#5 /projects/php/argos/trunk/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StoresController), Array)
+#6 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(StoresController), Object(CakeRequest))
+#8 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2015-02-19 23:29:56 Error: Fatal Error (4): syntax error, unexpected ';' in [/projects/php/argos/trunk/app/Model/Store.php, line 39]
+2015-02-19 23:29:56 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 39, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 39, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 23:41:43 Error: Fatal Error (1): Call to undefined method simple_html_dom_node::html() in [/projects/php/argos/trunk/app/Model/Store.php, line 39]
+2015-02-19 23:41:43 Error: [FatalErrorException] Call to undefined method simple_html_dom_node::html()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 39, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 39, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 23:42:06 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes) in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 605]
+2015-02-19 23:42:06 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/projects/php/a...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 23:45:48 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes) in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 605]
+2015-02-19 23:45:48 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/projects/php/a...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-19 23:48:25 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes) in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 605]
+2015-02-19 23:48:25 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/projects/php/a...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 00:03:20 Error: Fatal Error (1): Call to a member function load_file() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 36]
+2015-02-20 00:03:20 Error: [FatalErrorException] Call to a member function load_file() on array
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 36)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 36, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 36, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 00:54:25 Error: Fatal Error (4): syntax error, unexpected '$stores' (T_VARIABLE) in [/projects/php/argos/trunk/app/Model/Store.php, line 40]
+2015-02-20 00:54:25 Error: [FatalErrorException] syntax error, unexpected '$stores' (T_VARIABLE)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 40, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 40, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-20 01:12:51 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [/projects/php/argos/trunk/lib/Cake/Utility/String.php, line 240]
+2015-02-20 01:12:51 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', '/projects/php/a...', 240)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', '/projects/php/a...', 240, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', '/projects/php/a...', 240, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 00:25:23 Error: Fatal Error (1): Call to undefined function parse_array() in [/projects/php/argos/trunk/app/Model/Store.php, line 36]
+2015-02-21 00:25:23 Error: [FatalErrorException] Call to undefined function parse_array()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 36)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 36, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 36, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 00:40:38 Error: Fatal Error (1): Call to a member function children() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 38]
+2015-02-21 00:40:38 Error: [FatalErrorException] Call to a member function children() on array
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 00:40:49 Error: Fatal Error (1): Call to a member function children() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 38]
+2015-02-21 00:40:49 Error: [FatalErrorException] Call to a member function children() on array
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 00:43:18 Error: Fatal Error (1): Call to a member function children() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 38]
+2015-02-21 00:43:18 Error: [FatalErrorException] Call to a member function children() on array
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 01:05:25 Error: Fatal Error (1): Call to a member function children() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 38]
+2015-02-21 01:05:25 Error: [FatalErrorException] Call to a member function children() on null
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 01:10:24 Error: Fatal Error (1): Call to undefined method simple_html_dom_node::nodes() in [/projects/php/argos/trunk/app/Model/Store.php, line 38]
+2015-02-21 01:10:24 Error: [FatalErrorException] Call to undefined method simple_html_dom_node::nodes()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 38, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 38, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 01:15:04 Error: Fatal Error (1): Call to a member function children() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 38]
+2015-02-21 01:15:04 Error: [FatalErrorException] Call to a member function children() on array
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 38, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 01:35:54 Error: Fatal Error (4): syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in [/projects/php/argos/trunk/app/Model/Store.php, line 38]
+2015-02-21 01:35:54 Error: [FatalErrorException] syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$'
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 38, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 38, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 23:03:02 Error: Fatal Error (1): Call to a member function next_sibling() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 47]
+2015-02-21 23:03:02 Error: [FatalErrorException] Call to a member function next_sibling() on array
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 47, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 47, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 23:03:35 Error: Fatal Error (1): Call to a member function next_sibling() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 47]
+2015-02-21 23:03:35 Error: [FatalErrorException] Call to a member function next_sibling() on null
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 47, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 47, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-21 23:46:55 Error: Fatal Error (1): Call to a member function next_sibling() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 51]
+2015-02-21 23:46:55 Error: [FatalErrorException] Call to a member function next_sibling() on null
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 51, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 51, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 14:24:48 Error: Fatal Error (1): Call to undefined method simple_html_dom_node::getElementByTag() in [/projects/php/argos/trunk/app/Model/Store.php, line 46]
+2015-02-22 14:24:48 Error: [FatalErrorException] Call to undefined method simple_html_dom_node::getElementByTag()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 46, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 46, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 14:25:12 Error: Fatal Error (1): Call to undefined method simple_html_dom_node::getElementByTag() in [/projects/php/argos/trunk/app/Model/Store.php, line 46]
+2015-02-22 14:25:12 Error: [FatalErrorException] Call to undefined method simple_html_dom_node::getElementByTag()
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/projects/php/a...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/projects/php/a...', 46, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/projects/php/a...', 46, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:00:21 Error: Fatal Error (1): Call to a member function getAllAttributes() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 46]
+2015-02-22 16:00:21 Error: [FatalErrorException] Call to a member function getAllAttributes() on array
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 46, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 46, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:00:46 Error: Fatal Error (1): Call to a member function getAllAttributes() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 46]
+2015-02-22 16:00:46 Error: [FatalErrorException] Call to a member function getAllAttributes() on null
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 46, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 46, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:02:35 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes) in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 605]
+2015-02-22 16:02:35 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/projects/php/a...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:03:21 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 578]
+2015-02-22 16:03:21 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', '/projects/php/a...', 578)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', '/projects/php/a...', 578, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', '/projects/php/a...', 578, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:04:56 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 605]
+2015-02-22 16:04:56 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', '/projects/php/a...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', '/projects/php/a...', 605, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', '/projects/php/a...', 605, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:05:06 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 496]
+2015-02-22 16:05:06 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', '/projects/php/a...', 496)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', '/projects/php/a...', 496, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', '/projects/php/a...', 496, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:05:52 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 578]
+2015-02-22 16:05:52 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', '/projects/php/a...', 578)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', '/projects/php/a...', 578, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', '/projects/php/a...', 578, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:10:39 Error: Fatal Error (1): Call to a member function getAttribute() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 46]
+2015-02-22 16:10:39 Error: [FatalErrorException] Call to a member function getAttribute() on null
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 46, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 46, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:16:37 Error: Fatal Error (1): Call to a member function getAttribute() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 46]
+2015-02-22 16:16:37 Error: [FatalErrorException] Call to a member function getAttribute() on null
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 46)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 46, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 46, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:29:47 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [/projects/php/argos/trunk/app/Model/Store.php, line 48]
+2015-02-22 16:29:47 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use isse...', '/projects/php/a...', 48)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:29:48 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [/projects/php/argos/trunk/app/Model/Store.php, line 48]
+2015-02-22 16:29:48 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use isse...', '/projects/php/a...', 48)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:29:48 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [/projects/php/argos/trunk/app/Model/Store.php, line 48]
+2015-02-22 16:29:48 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use isse...', '/projects/php/a...', 48)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:29:53 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [/projects/php/argos/trunk/app/Model/Store.php, line 48]
+2015-02-22 16:29:53 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use isse...', '/projects/php/a...', 48)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:29:54 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [/projects/php/argos/trunk/app/Model/Store.php, line 48]
+2015-02-22 16:29:54 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use isse...', '/projects/php/a...', 48)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:29:59 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [/projects/php/argos/trunk/app/Model/Store.php, line 48]
+2015-02-22 16:29:59 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use isse...', '/projects/php/a...', 48)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:30:00 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [/projects/php/argos/trunk/app/Model/Store.php, line 48]
+2015-02-22 16:30:00 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use isse...', '/projects/php/a...', 48)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:30:00 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [/projects/php/argos/trunk/app/Model/Store.php, line 48]
+2015-02-22 16:30:00 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use isse...', '/projects/php/a...', 48)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-22 16:30:31 Error: Fatal Error (64): Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in [/projects/php/argos/trunk/app/Model/Store.php, line 48]
+2015-02-22 16:30:31 Error: [FatalErrorException] Cannot use isset() on the result of a function call (you can use "null !== func()" instead)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use isse...', '/projects/php/a...', 48)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use isse...', '/projects/php/a...', 48, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-23 22:23:58 Error: Fatal Error (1): Call to a member function query() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 28]
+2015-02-23 22:23:58 Error: [FatalErrorException] Call to a member function query() on null
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 28)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 28, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 28, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-23 22:41:42 Error: Fatal Error (4): syntax error, unexpected ';' in [/projects/php/argos/trunk/app/Model/Store.php, line 29]
+2015-02-23 22:41:42 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 29)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 29, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 29, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-23 23:41:58 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'out' at line 1
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /projects/php/argos/trunk/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('out', Array)
+#2 /projects/php/argos/trunk/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('out', Array, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Model/Datasource/DboSource.php(611): DboSource->fetchAll('out', Array, Array)
+#4 /projects/php/argos/trunk/lib/Cake/Model/Model.php(827): DboSource->query('out', Array, Object(Store))
+#5 /projects/php/argos/trunk/app/Model/Store.php(50): Model->__call('out', Array)
+#6 /projects/php/argos/trunk/app/Model/Store.php(50): Store->out('No Stores to Up...')
+#7 /projects/php/argos/trunk/app/Controller/StoresController.php(28): Store->checkForUpdates()
+#8 [internal function]: StoresController->index()
+#9 /projects/php/argos/trunk/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StoresController), Array)
+#10 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /projects/php/argos/trunk/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(StoresController), Object(CakeRequest))
+#12 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-02-24 21:08:36 Error: Fatal Error (64): Cannot use [] for reading in [/projects/php/argos/trunk/app/Model/Store.php, line 71]
+2015-02-24 21:08:36 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/projects/php/a...', 71)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-24 21:08:37 Error: Fatal Error (64): Cannot use [] for reading in [/projects/php/argos/trunk/app/Model/Store.php, line 71]
+2015-02-24 21:08:37 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/projects/php/a...', 71)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-24 21:08:40 Error: Fatal Error (64): Cannot use [] for reading in [/projects/php/argos/trunk/app/Model/Store.php, line 71]
+2015-02-24 21:08:40 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/projects/php/a...', 71)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-24 21:08:41 Error: Fatal Error (64): Cannot use [] for reading in [/projects/php/argos/trunk/app/Model/Store.php, line 71]
+2015-02-24 21:08:41 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/projects/php/a...', 71)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-24 21:08:46 Error: Fatal Error (64): Cannot use [] for reading in [/projects/php/argos/trunk/app/Model/Store.php, line 71]
+2015-02-24 21:08:46 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/projects/php/a...', 71)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-24 21:09:16 Error: Fatal Error (64): Cannot use [] for reading in [/projects/php/argos/trunk/app/Model/Store.php, line 71]
+2015-02-24 21:09:16 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/projects/php/a...', 71)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/projects/php/a...', 71, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-02-24 21:14:14 Error: Fatal Error (4): syntax error, unexpected ')' in [/projects/php/argos/trunk/app/Model/Store.php, line 68]
+2015-02-24 21:14:14 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 68)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 68, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 68, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-02 23:52:53 Error: Fatal Error (4): syntax error, unexpected 'debug' (T_STRING) in [/projects/php/argos/trunk/app/Controller/StoresController.php, line 28]
+2015-03-02 23:52:53 Error: [FatalErrorException] syntax error, unexpected 'debug' (T_STRING)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 28)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 28, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 28, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 00:05:02 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 357840 bytes) in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 610]
+2015-03-03 00:05:02 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 357840 bytes)
+Request URL: /php/argos/trunk/stores
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/projects/php/a...', 610)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/projects/php/a...', 610, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/projects/php/a...', 610, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 00:08:36 Error: Fatal Error (4): syntax error, unexpected '{', expecting ')' in [/projects/php/argos/trunk/app/Controller/StoresController.php, line 25]
+2015-03-03 00:08:36 Error: [FatalErrorException] syntax error, unexpected '{', expecting ')'
+Request URL: /php/argos/trunk/stores?product_id=1144967
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 25)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 25, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 25, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 21:46:09 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes) in [/projects/php/argos/trunk/lib/Cake/Utility/Debugger.php, line 605]
+2015-03-03 21:46:09 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 245760 bytes)
+Request URL: /php/argos/trunk/stores?product_id=5088773
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/projects/php/a...', 605)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/projects/php/a...', 605, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 22:47:42 Error: Fatal Error (64): Can't use function return value in write context in [/projects/php/argos/trunk/app/Model/Store.php, line 141]
+2015-03-03 22:47:42 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /php/argos/trunk/stores?product_id=5088773
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', '/projects/php/a...', 141)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', '/projects/php/a...', 141, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', '/projects/php/a...', 141, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 22:53:17 Error: Fatal Error (64): Can't use function return value in write context in [/projects/php/argos/trunk/app/Model/Store.php, line 141]
+2015-03-03 22:53:17 Error: [FatalErrorException] Can't use function return value in write context
+Request URL: /php/argos/trunk/stores?product_id=5088773
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use funct...', '/projects/php/a...', 141)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use funct...', '/projects/php/a...', 141, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Can't use funct...', '/projects/php/a...', 141, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 23:10:59 Error: Fatal Error (1): Call to a member function children() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 140]
+2015-03-03 23:10:59 Error: [FatalErrorException] Call to a member function children() on array
+Request URL: /php/argos/trunk/stores?product_id=5088773
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 140)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 140, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 140, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 23:38:00 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 126]
+2015-03-03 23:38:00 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=1441968
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 126)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 23:38:14 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 126]
+2015-03-03 23:38:14 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=1441968
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 126)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 23:38:30 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 126]
+2015-03-03 23:38:30 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=1441968
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 126)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 23:40:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/img/www.argos.ie/wcsstore/argosie/images/383-5088773SPA77M.jpg
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-03 23:41:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/img/www.argos.ie/wcsstore/argosie/images/383-5088773SPA77M.jpg
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-03 23:42:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/img/www.argos.ie/wcsstore/argosie/images/383-5088773SPA77M.jpg
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-03 23:50:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/img/www.argos.ie/wcsstore/argosie/images/383-5088773SPA77M.jpg
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-03 23:52:46 Error: Fatal Error (4): syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in [/projects/php/argos/trunk/app/View/Elements/index.ctp, line 14]
+2015-03-03 23:52:46 Error: [FatalErrorException] syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN)
+Request URL: /php/argos/trunk/stores?product_id=5088773
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/projects/php/a...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/projects/php/a...', 14, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/projects/php/a...', 14, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-03 23:54:21 Error: [MissingControllerException] Controller class Www.argos.ieController could not be found.
+Exception Attributes: array (
+  'class' => 'Www.argos.ieController',
+  'plugin' => NULL,
+)
+Request URL: /php/argos/trunk/www.argos.ie/wcsstore/argosie/images/383-5088773SPA77M.jpg
+Stack Trace:
+#0 /projects/php/argos/trunk/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-04 21:19:01 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 126]
+2015-03-04 21:19:01 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=5088774
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 126)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 21:20:00 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 126]
+2015-03-04 21:20:00 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=3622120
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 126)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 22:24:33 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 127]
+2015-03-04 22:24:33 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=3579756
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 127)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 22:31:37 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 127]
+2015-03-04 22:31:37 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 127)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 22:33:20 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 127]
+2015-03-04 22:33:20 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 127)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 22:33:33 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 127]
+2015-03-04 22:33:33 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 127)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 22:34:00 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 127]
+2015-03-04 22:34:00 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 127)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 22:34:05 Error: Fatal Error (1): Call to a member function find() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 127]
+2015-03-04 22:34:05 Error: [FatalErrorException] Call to a member function find() on boolean
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 127)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 127, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 22:47:53 Error: Fatal Error (1): Call to a member function clear() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 129]
+2015-03-04 22:47:53 Error: [FatalErrorException] Call to a member function clear() on boolean
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 129)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 129, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 129, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 23:00:20 Error: Fatal Error (1): Call to a member function clear() on boolean in [/projects/php/argos/trunk/app/Model/Store.php, line 129]
+2015-03-04 23:00:20 Error: [FatalErrorException] Call to a member function clear() on boolean
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 129)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 129, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 129, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 23:12:52 Error: Fatal Error (1): Call to a member function children() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 142]
+2015-03-04 23:12:52 Error: [FatalErrorException] Call to a member function children() on null
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 142)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 142, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 142, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 23:15:44 Error: Fatal Error (1): Call to a member function children() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 126]
+2015-03-04 23:15:44 Error: [FatalErrorException] Call to a member function children() on array
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 126)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 23:17:11 Error: Fatal Error (1): Call to a member function children() on array in [/projects/php/argos/trunk/app/Model/Store.php, line 126]
+2015-03-04 23:17:11 Error: [FatalErrorException] Call to a member function children() on array
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 126)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 126, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 23:20:24 Error: Fatal Error (1): Call to a member function children() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 144]
+2015-03-04 23:20:24 Error: [FatalErrorException] Call to a member function children() on null
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 144)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 144, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 144, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-04 23:23:13 Error: Fatal Error (1): Call to a member function children() on null in [/projects/php/argos/trunk/app/Model/Store.php, line 144]
+2015-03-04 23:23:13 Error: [FatalErrorException] Call to a member function children() on null
+Request URL: /php/argos/trunk/stores?product_id=357996
+Stack Trace:
+#0 /projects/php/argos/trunk/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/projects/php/a...', 144)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/projects/php/a...', 144, Array)
+#2 /projects/php/argos/trunk/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/projects/php/a...', 144, Array)
+#3 /projects/php/argos/trunk/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
